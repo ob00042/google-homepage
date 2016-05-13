@@ -1,2 +1,3 @@
-# google-homepage
-Google homepage html css project
+The google homepage project
+
+http://www.theodinproject.com/web-development-101/html-css
